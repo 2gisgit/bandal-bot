@@ -1,0 +1,56 @@
+2022-08-12 13:54:26,381 [INFO]: logging in using static token
+2022-08-12 13:54:26,835 [INFO]: Cleaning up tasks.
+2022-08-12 13:54:26,837 [INFO]: Closing the event loop.
+2022-08-12 13:54:27,521 [INFO]: ERROR CODE {['\n', '\n', 'bot.run(token)\n']}, ERROR LINENO {207}, ERROR INDEX {2}
+2022-08-12 13:54:27,521 [INFO]: RAW DATA
+
+[FrameInfo(frame=<frame at 0x0000026C6D043E40, file 'C:\\WhenIMoveCom\\py\\bot\\bot.py', line 207, code <module>>, filename='C:\\WhenIMoveCom\\py\\bot\\bot.py', lineno=207, function='<module>', code_context=['\n', '\n', 'bot.run(token)\n'], index=2)]
+2022-08-12 13:55:57,177 [INFO]: logging in using static token
+2022-08-12 13:55:57,632 [INFO]: Cleaning up tasks.
+2022-08-12 13:55:57,633 [INFO]: Closing the event loop.
+2022-08-12 13:55:58,334 [INFO]: ERROR CODE {['\n', '\n', 'bot.run(token)\n']}, ERROR LINENO {208}, ERROR INDEX {2}
+2022-08-12 13:55:58,335 [INFO]: RAW DATA
+
+[FrameInfo(frame=<frame at 0x00000215AC81C9C0, file 'C:\\WhenIMoveCom\\py\\bot\\bot.py', line 208, code <module>>, filename='C:\\WhenIMoveCom\\py\\bot\\bot.py', lineno=208, function='<module>', code_context=['\n', '\n', 'bot.run(token)\n'], index=2)]
+2022-08-12 13:56:18,702 [INFO]: logging in using static token
+2022-08-12 13:56:19,110 [INFO]: Cleaning up tasks.
+2022-08-12 13:56:19,111 [INFO]: Closing the event loop.
+2022-08-12 13:56:19,786 [INFO]: ERROR CODE {['\n', '\n', 'bot.run(token)\n']}, ERROR LINENO {207}, ERROR INDEX {2}
+2022-08-12 13:56:19,787 [INFO]: RAW DATA
+
+[FrameInfo(frame=<frame at 0x0000025090822D40, file 'C:\\WhenIMoveCom\\py\\bot\\bot.py', line 207, code <module>>, filename='C:\\WhenIMoveCom\\py\\bot\\bot.py', lineno=207, function='<module>', code_context=['\n', '\n', 'bot.run(token)\n'], index=2)]
+2022-08-12 13:56:34,408 [INFO]: logging in using static token
+2022-08-12 13:56:34,831 [INFO]: Cleaning up tasks.
+2022-08-12 13:56:34,832 [INFO]: Closing the event loop.
+2022-08-12 13:56:35,547 [INFO]: ERROR CODE {['\n', 'print(1)\n', 'bot.run(token)\n']}, ERROR LINENO {208}, ERROR INDEX {2}
+2022-08-12 13:56:35,547 [INFO]: RAW DATA
+
+[FrameInfo(frame=<frame at 0x000001D6AA483E40, file 'C:\\WhenIMoveCom\\py\\bot\\bot.py', line 208, code <module>>, filename='C:\\WhenIMoveCom\\py\\bot\\bot.py', lineno=208, function='<module>', code_context=['\n', 'print(1)\n', 'bot.run(token)\n'], index=2)]
+2022-08-12 13:57:51,633 [INFO]: logging in using static token
+2022-08-12 13:57:52,081 [INFO]: Cleaning up tasks.
+2022-08-12 13:57:52,082 [INFO]: Closing the event loop.
+2022-08-12 13:57:52,781 [INFO]: ERROR CODE {['\n', '\n', 'bot.run(token)\n']}, ERROR LINENO {207}, ERROR INDEX {2}
+2022-08-12 13:57:52,781 [INFO]: RAW DATA
+
+[FrameInfo(frame=<frame at 0x000001ADBECD28F0, file 'C:\\WhenIMoveCom\\py\\bot\\bot.py', line 207, code <module>>, filename='C:\\WhenIMoveCom\\py\\bot\\bot.py', lineno=207, function='<module>', code_context=['\n', '\n', 'bot.run(token)\n'], index=2)]
+2022-08-12 13:59:43,846 [INFO]: logging in using static token
+2022-08-12 13:59:44,557 [INFO]: Shard ID None has sent the IDENTIFY payload.
+2022-08-12 13:59:44,837 [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-sc1v",{"micros":82973,"calls":["id_created",{"micros":2081,"calls":[]},"session_lookup_time",{"micros":4935,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-green-prd-2-198",{"micros":75560,"calls":["start_session",{"micros":39336,"calls":["discord-api-6569cc4cd7-5j2lh",{"micros":34751,"calls":["get_user",{"micros":8857},"add_authorized_ip",{"micros":3180},"get_guilds",{"micros":3059},"send_scheduled_deleteion_message",{"micros":14},"guild_join_requests",{"micros":3}]}]},"starting_guild_connect",{"micros":23,"calls":[]},"presence_started",{"micros":360,"calls":[]},"guilds_started",{"micros":442,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":35363,"calls":[]},"connect_finished",{"micros":35367,"calls":[]},"build_ready",{"micros":4,"calls":[]},"optimize_ready",{"micros":25,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: dbc83d444405349950aa8aed0d5e689e).
+2022-08-12 13:59:46,871 [INFO]: logged in BanDal#2649
+2022-08-12 14:00:34,361 [INFO]: logging in using static token
+2022-08-12 14:00:35,103 [INFO]: Shard ID None has sent the IDENTIFY payload.
+2022-08-12 14:00:35,651 [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-778h",{"micros":352195,"calls":["id_created",{"micros":2726,"calls":[]},"session_lookup_time",{"micros":365,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-green-prd-2-107",{"micros":348574,"calls":["start_session",{"micros":287270,"calls":["discord-api-6569cc4cd7-nplxt",{"micros":265062,"calls":["get_user",{"micros":27580},"add_authorized_ip",{"micros":5917},"get_guilds",{"micros":140503},"send_scheduled_deleteion_message",{"micros":13},"guild_join_requests",{"micros":3}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":17171,"calls":[]},"guilds_started",{"micros":24669,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":19399,"calls":[]},"connect_finished",{"micros":19404,"calls":[]},"build_ready",{"micros":4,"calls":[]},"optimize_ready",{"micros":21,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 2f7c8ff41e8b17159a3667c594a3d2c3).
+2022-08-12 14:00:37,684 [INFO]: logged in BanDal#2649
+2022-08-12 14:01:27,030 [INFO]: logging in using static token
+2022-08-12 14:01:27,779 [INFO]: Shard ID None has sent the IDENTIFY payload.
+2022-08-12 14:01:28,081 [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-j290",{"micros":106305,"calls":["id_created",{"micros":1509,"calls":[]},"session_lookup_time",{"micros":333,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-green-prd-2-15",{"micros":103879,"calls":["start_session",{"micros":60224,"calls":["discord-api-6569cc4cd7-srnqt",{"micros":55377,"calls":["get_user",{"micros":12209},"add_authorized_ip",{"micros":9044},"get_guilds",{"micros":3043},"send_scheduled_deleteion_message",{"micros":10},"guild_join_requests",{"micros":2}]}]},"starting_guild_connect",{"micros":25,"calls":[]},"presence_started",{"micros":289,"calls":[]},"guilds_started",{"micros":43307,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":2,"calls":[]},"connect_finished",{"micros":6,"calls":[]},"build_ready",{"micros":5,"calls":[]},"optimize_ready",{"micros":19,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: de49c524076ff3f297d96464c8fea7bd).
+2022-08-12 14:01:30,125 [INFO]: logged in BanDal#2649
+2022-08-12 14:02:44,921 [INFO]: logging in using static token
+2022-08-12 14:02:45,628 [INFO]: Shard ID None has sent the IDENTIFY payload.
+2022-08-12 14:02:45,939 [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-0hgj",{"micros":102819,"calls":["id_created",{"micros":2204,"calls":[]},"session_lookup_time",{"micros":347,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-green-prd-2-132",{"micros":99937,"calls":["start_session",{"micros":77364,"calls":["discord-api-6569cc4cd7-tbfkz",{"micros":59462,"calls":["get_user",{"micros":16927},"add_authorized_ip",{"micros":4191},"get_guilds",{"micros":6803},"send_scheduled_deleteion_message",{"micros":11},"guild_join_requests",{"micros":3}]}]},"starting_guild_connect",{"micros":33,"calls":[]},"presence_started",{"micros":273,"calls":[]},"guilds_started",{"micros":22230,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]},"connect_finished",{"micros":6,"calls":[]},"build_ready",{"micros":6,"calls":[]},"optimize_ready",{"micros":21,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 990b3e6be883b05137355ec1316d97e5).
+2022-08-12 14:02:47,966 [INFO]: logged in BanDal#2649
+2022-08-12 16:54:45,677 [INFO]: logging in using static token
+2022-08-12 16:54:46,490 [INFO]: Shard ID None has sent the IDENTIFY payload.
+2022-08-12 16:54:46,898 [INFO]: Shard ID None has connected to Gateway: ["gateway-prd-main-mk07",{"micros":200275,"calls":["id_created",{"micros":1886,"calls":[]},"session_lookup_time",{"micros":296,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-green-prd-2-39",{"micros":197689,"calls":["start_session",{"micros":148701,"calls":["discord-api-6569cc4cd7-dcpkh",{"micros":142351,"calls":["get_user",{"micros":29974},"add_authorized_ip",{"micros":34209},"get_guilds",{"micros":6665},"send_scheduled_deleteion_message",{"micros":9},"guild_join_requests",{"micros":2}]}]},"starting_guild_connect",{"micros":29,"calls":[]},"presence_started",{"micros":281,"calls":[]},"guilds_started",{"micros":585,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":48051,"calls":[]},"connect_finished",{"micros":48057,"calls":[]},"build_ready",{"micros":7,"calls":[]},"optimize_ready",{"micros":25,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 98eec98ce973ead048ad1f01de04e9eb).
+2022-08-12 16:54:48,909 [INFO]: logged in vidar#7490
+2022-08-12 16:55:08,455 [INFO]: 2gis has used "ping" command.
