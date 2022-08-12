@@ -172,7 +172,7 @@ async def remote(ctx, file: str):
 	code = requests.get(url).content.decode().replace("\r\n", "\n")
 	if (file == "main") or (file == "bot.py"):
 		await ctx.send("running subprogram...")
-		subprocess.Popen(['python', "bot.py", code])
+		subprocess.Popen(['python3', "bot.py", code])
 		await ctx.send("quiting main program...")
 		sys.exit(0)
 	else:
